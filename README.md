@@ -14,6 +14,8 @@ step 2 : npm start
 
 ## API Reference
 
+Postman API reference Link: https://www.getpostman.com/collections/04ee11e1ba0201d00bb9
+
 ### AUTH
 
 1. register user
